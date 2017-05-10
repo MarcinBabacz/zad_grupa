@@ -1,0 +1,2 @@
+Plik readme
+Autor :MB
