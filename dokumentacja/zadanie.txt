@@ -3,4 +3,4 @@ Zadanie:
 2. Zadanie: 
 	- Utworzenie zdalnego repo.
 	- Podzia³ zadañ na 3 osoby
-	- Praca zdalna w podziale na zadania
+	- Praca zdalna w podziale na zadania 
